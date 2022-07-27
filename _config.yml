@@ -10,8 +10,8 @@ locale                   : "de"
 title                    : "Oliver Hoffmann"
 title_separator          : " "
 name                     : "Oliver Hoffmann"
-description              : "Demokratie in Österreich"
-url                      : "https://www.demokratie.at"
+description              : "Democracy in Austria"
+url                      : "https://www.democracy.at"
 baseurl                  : "/"
 #logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
 logo                     : https://res.cloudinary.com/ontore/image/upload/f_auto,fl_any_format,q_auto/v1658300883/2022-07-20-Oliver-Hoffmann-scaled_wofrlf.png
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "demokratie.at"
+  name             : "Oliver Hoffmann"
   avatar           : ""
-  bio              : "Demokratie in Österreich"
-  location         : "Österreich"
+  bio              : ""
+  location         : "Austria"
   email            :
   uri              :
   bitbucket        :
