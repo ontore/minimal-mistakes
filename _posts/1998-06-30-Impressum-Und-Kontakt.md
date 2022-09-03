@@ -1,7 +1,9 @@
 ---
+layout: splash
 title: Impressum
 permalink: impressum.html
 ---
+# Impressum
 
 Responsible for website content:<br />
 Diplomingenieur Oliver Hoffmann<br />
