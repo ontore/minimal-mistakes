@@ -11,10 +11,10 @@ title                    : "Oliver Hoffmann"
 title_separator          : " "
 name                     : "Oliver Hoffmann"
 description              : "Democracy in Austria"
-url                      : "https://www.democracy.at"
+url                      : "https://democracy.at"
 baseurl                  : "/"
 #logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
-logo                     : /assets/images//2022-07-20-Oliver-Hoffmann-scaled.png
+logo                     : /assets/images/2023-03-31-Tempel.svg
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : ""
 breadcrumbs              : false
